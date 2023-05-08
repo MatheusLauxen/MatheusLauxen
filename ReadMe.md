@@ -1,5 +1,21 @@
 # 💫 About Me:
-👋 Olá e bem-vindo ao meu perfil do GitHub!<br><br>💻 Sou um apaixonado por desenvolvimento Front-End, especializado em HTML, CSS, JavaScript e Bootstrap. Meu objetivo é criar interfaces atraentes e responsivas que proporcionem a melhor experiência do usuário possível.<br><br>🚀 Com alguns meses de experiência nesse campo dinâmico e em constante evolução, estou sempre atualizado com as tendências mais recentes e as melhores práticas do setor.<br><br>💡 Minhas habilidades em HTML me permitem estruturar o conteúdo de forma clara e semântica, garantindo uma base sólida para a experiência do usuário. Com o CSS, posso dar vida às páginas, personalizando cores, layouts e animações, para tornar a interface visualmente agradável e intuitiva.<br><br>⚡ Além disso, sou especializado em JavaScript, o que me permite criar interatividade e funcionalidades dinâmicas, tornando as aplicações mais poderosas e engajantes.<br><br>🎨 Tenho experiência no uso do Bootstrap, um dos frameworks mais populares para o desenvolvimento de interfaces responsivas e mobile-friendly. Com suas classes pré-estilizadas, posso acelerar o processo de desenvolvimento e garantir uma experiência consistente em diferentes dispositivos.<br><br>✨ Estou constantemente buscando aprender e aprimorar minhas habilidades, sempre aberto a novos desafios e oportunidades de colaboração. Se você está procurando um desenvolvedor Front-End apaixonado e comprometido, estou pronto para contribuir para o seu próximo projeto!<br><br>📫 Fique à vontade aqui no meu perfil. Se você tiver alguma dúvida ou estiver interessado em trabalhar juntos, não hesite em entrar em contato. Vamos criar algo incrível juntos! 💪<br><br>Obrigado por visitar o meu perfil! 🙏
+Hello and welcome to my GitHub profile!
+
+💻 I'm passionate about Front-End development, specializing in HTML, CSS, JavaScript and Bootstrap. My goal is to create attractive and responsive interfaces that provide the best possible user experience.
+
+🚀 With a few months of experience in this dynamic and ever-evolving field, I am always up to date with the latest trends and industry best practices.
+
+💡 My HTML skills allow me to structure content clearly and semantically, ensuring a solid foundation for the user experience. With CSS, I can bring pages to life by customizing colors, layouts, and animations to make the interface visually pleasing and intuitive.
+
+⚡ In addition, I specialize in JavaScript, which allows me to create interactivity and dynamic features, making applications more powerful and engaging.
+
+🎨 I have experience using Bootstrap, one of the most popular frameworks for developing responsive and mobile-friendly interfaces. With its pre-styled classes, I can speed up the development process and ensure a consistent experience across different devices.
+
+✨ I am constantly looking to learn and improve my skills, always open to new challenges and collaboration opportunities. If you're looking for a passionate and committed Front-End developer, I'm ready to contribute to your next project!
+
+📫 Feel free here on my profile. If you have any questions or are interested in working together, please don't hesitate to get in touch. Let's create something amazing together! 💪
+
+Thanks for visiting my profile! 🙏
 
 
 ## 🌐 Socials:

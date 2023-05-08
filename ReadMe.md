@@ -1,0 +1,21 @@
+# 💫 About Me:
+👋 Olá e bem-vindo ao meu perfil do GitHub!<br><br>💻 Sou um apaixonado por desenvolvimento Front-End, especializado em HTML, CSS, JavaScript e Bootstrap. Meu objetivo é criar interfaces atraentes e responsivas que proporcionem a melhor experiência do usuário possível.<br><br>🚀 Com alguns meses de experiência nesse campo dinâmico e em constante evolução, estou sempre atualizado com as tendências mais recentes e as melhores práticas do setor.<br><br>💡 Minhas habilidades em HTML me permitem estruturar o conteúdo de forma clara e semântica, garantindo uma base sólida para a experiência do usuário. Com o CSS, posso dar vida às páginas, personalizando cores, layouts e animações, para tornar a interface visualmente agradável e intuitiva.<br><br>⚡ Além disso, sou especializado em JavaScript, o que me permite criar interatividade e funcionalidades dinâmicas, tornando as aplicações mais poderosas e engajantes.<br><br>🎨 Tenho experiência no uso do Bootstrap, um dos frameworks mais populares para o desenvolvimento de interfaces responsivas e mobile-friendly. Com suas classes pré-estilizadas, posso acelerar o processo de desenvolvimento e garantir uma experiência consistente em diferentes dispositivos.<br><br>✨ Estou constantemente buscando aprender e aprimorar minhas habilidades, sempre aberto a novos desafios e oportunidades de colaboração. Se você está procurando um desenvolvedor Front-End apaixonado e comprometido, estou pronto para contribuir para o seu próximo projeto!<br><br>📫 Fique à vontade aqui no meu perfil. Se você tiver alguma dúvida ou estiver interessado em trabalhar juntos, não hesite em entrar em contato. Vamos criar algo incrível juntos! 💪<br><br>Obrigado por visitar o meu perfil! 🙏
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Matheusvitorlauxen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/matheusvitorlauxen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-lauxen-849516208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Matheuslauxenn) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= MatheusLauxen&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user= MatheusLauxen&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= MatheusLauxen&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/Matheuslauxenn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+---
+[![](https://visitcount.itsvg.in/api?id= MatheusLauxen&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

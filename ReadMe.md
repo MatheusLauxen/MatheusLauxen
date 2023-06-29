@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello and welcome to my GitHub profile!
 
-## Hello! I am <h4>Matheus Lauxen</4>
+## Hello! I am Matheus Lauxen
 
 I'm a developer passionate about creating amazing and engaging solutions on the web. With a solid background in HTML, CSS, JavaScript, C#, MVC, Bootstrap and jQuery, I am constantly looking to improve my skills and learn new technologies.
 

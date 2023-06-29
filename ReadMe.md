@@ -26,9 +26,9 @@ I'm a developer passionate about creating amazing and engaging solutions on the 
 
 - [Twitter](https://twitter.com/Matheuslauxenn).
 
-Estou sempre aberto a novos desafios e colaborações emocionantes. Se você está procurando um desenvolvedor dedicado e criativo, estou pronto para fazer parte do seu projeto. Vamos criar algo incrível juntos!
+I'm always open to new challenges and exciting collaborations. If you are looking for a dedicated and creative developer, I am ready to be part of your project. Let's create something amazing together!
 
-Entre em contato comigo por [e-mail](matheusvitorlauxen6@gmail.com).
+Please contact me via [e-mail](matheusvitorlauxen6@gmail.com).
 
 
 # 💻 Tech Stack:

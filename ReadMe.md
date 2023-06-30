@@ -20,11 +20,11 @@ I'm a developer passionate about creating amazing and engaging solutions on the 
 - jQuery: I use jQuery to simplify manipulation, handle events and create animations quickly and efficiently.
 
 ### Social media:
-- [Linkdin](https://www.linkedin.com/in/matheus-lauxen-849516208/),
+- [Linkdin](https://www.linkedin.com/in/matheus-lauxen-849516208/)
 
-- [Instagram](https://www.instagram.com/matheusvitorlauxen/),
+- [Instagram](https://www.instagram.com/matheusvitorlauxen/)
 
-- [Twitter](https://twitter.com/Matheuslauxenn).
+- [Twitter](https://twitter.com/Matheuslauxenn)
 
 I'm always open to new challenges and exciting collaborations. If you are looking for a dedicated and creative developer, I am ready to be part of your project. Let's create something amazing together!
 
